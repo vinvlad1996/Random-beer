@@ -50,7 +50,7 @@ body {
 .container2 {
     text-align: center;
     /* min-width: 1420px; */
-    background: url(../Banda/IMG/zal.jpeg);
+    background: url(IMG/zal.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 600px;
@@ -146,23 +146,23 @@ h1 {
 }
 
 .social-link-face {
-    background-image: url('../Banda/IMG/FB_icon-icons.com_65484.svg');
+    background-image: url(IMG/FB_icon-icons.com_65484.svg);
 }
 
 .social-link-insta {
-    background-image: url('../Banda/IMG/instagram_f_icon-icons.com_65485.svg');
+    background-image: url(IMG/instagram_f_icon-icons.com_65485.svg);
 }
 
 .social-link-youtube {
-    background-image: url('../Banda/IMG/YOUTUBE_icon-icons.com_65487.svg');
+    background-image: url(IMG/YOUTUBE_icon-icons.com_65487.svg);
 }
 
 .social-link-google {
-    background-image: url('../Banda/IMG/GOOGLE_icon-icons.com_65492.svg');
+    background-image: url(IMG/GOOGLE_icon-icons.com_65492.svg);
 }
 
 .social-link-twit {
-    background-image: url('../Banda/IMG/TWITTER_icon-icons.com_65486.svg');
+    background-image: url(IMG/TWITTER_icon-icons.com_65486.svg);
 }
 
 @media (max-width: 360px) {
@@ -173,7 +173,7 @@ h1 {
 
     .container2 {
         text-align: center;
-        background: url(../Banda/IMG/depositphotos_212560468-stock-photo-close-view-beer-bottle-tabletop.jpeg);
+        background: url(IMG/depositphotos_212560468-stock-photo-close-view-beer-bottle-tabletop.jpeg);
         background-repeat: no-repeat;
         background-size: 450px 800px;
     }
